@@ -120,7 +120,8 @@ nav ul{
     flex-direction: column;
 }
 .sidebar{
-    background-image:url(th\ \(1\)\ copy.jpg);
+    background: linear-gradient(to right, rgba(200,107,142,1), rgba(218,105,250,1),
+     rgba(110,125,253,1)) ;
     padding-top: 10em;
 }
 .hero{
